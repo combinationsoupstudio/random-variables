@@ -1,5 +1,13 @@
 # CLAUDE.md - how work is done in this repo
 
+## THE STANDARD (Chris, 9 Nov 2026, permanent)
+"I want this project to be coded to the highest of standards and use standardised practices in all areas.
+Future employers must see that the commits and pulls are all legit and not pumped for numbers. This is a product
+to sell; it will be scrutinised by the best coders and AI tools alike. Top notch ACROSS the whole project, no question."
+Operational meaning: CONTRIBUTING.md is binding. Conventional commits, one change per commit, PR per feature with tests
+and a pasted reviewer verdict, CI green before merge, typed GDScript, no magic numbers, no filler commits. If a shortcut
+is tempting, the answer is no.
+
 This is a Godot 4 (GDScript) game: **Random Variables**. Solo developer (Chris) + Claude Code.
 The goal is a Steam-quality release AND a portfolio that proves a full SDLC was followed.
 Every piece of work leaves a trail: issue -> branch -> commit -> review -> test -> merge.
