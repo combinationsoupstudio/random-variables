@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "godot": {
+      "command": "node",
+      "args": ["D:/Dev/tools/godot-mcp/build/index.js"],
+      "env": { "GODOT_PATH": "C:/Users/Chris/AppData/Local/Microsoft/WinGet/Packages/GodotEngine.GodotEngine_Microsoft.Winget.Source_8wekyb3d8bbwe/Godot_v4.7.2-stable_win64.exe", "DEBUG": "false" }
+    },
+    "blender": {
+      "command": "uvx",
+      "args": ["blender-mcp"]
+    }
+  }
+}
